@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carol Cadieux - one of the senior test engineers for the Lunar Kitty Profile team for Healthgrades.
-- 🏫 I’m currently learning Cypress for our new testing suite.
+- 🏫 I’m continuing to learn Cypress for our new testing suite, but also learning more about Data Dog and ChatGPT.
 - 📫 You can reach me at ccadieux@rvohhealth.com or  Carol Cadieux on Slack.
 
 <!---
